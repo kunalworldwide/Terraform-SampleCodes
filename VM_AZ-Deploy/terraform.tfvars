@@ -1,3 +1,4 @@
+#add to gitignore
 subscription_id = "e5fdc9e4-086f-4bae-bb1a-f5445a90ab6f"
 client_id = "089c6ece-75f2-491f-9503-ead12c6af156"
 client_secret = "RV88b5g2YcW8FXBUydpr5w9bvHFjwsy_i-"
