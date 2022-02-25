@@ -1,3 +1,8 @@
 RG-AZ-Deploy/terraform.tfvars
 RG-AZ-Deploy/terraform.tfvars
 VM_AZ-Deploy/terraform.tfvars
+VM-WIN-AZ-Deploy/terraform.tfvars
+VM-WIN-AZ-Deploy/.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.98.0/linux_amd64/terraform-provider-azurerm_v2.98.0_x5
+VM-WIN-AZ-Deploy/.terraform.lock.hcl
+VM-WIN-AZ-Deploy/terraform.tfstate
+VM-WIN-AZ-Deploy/terraform.tfvars
