@@ -16,6 +16,7 @@ resource "azurerm_linux_virtual_machine" "example" {
 
   admin_ssh_key {
     username   = "adminuser"
+    #run " ssh-keygen -t rsa" in local system to generate a ssh key, then run the command
     public_key = file("~/.ssh/id_rsa.pub")
   }
 
